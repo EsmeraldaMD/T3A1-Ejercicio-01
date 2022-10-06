@@ -6,13 +6,13 @@ Determinar y mostrar el promedio de las calificaciones finales en un resumen con
 
 ## Estapa 2. Especificaciones
 *Entrada:
- -Estudiantes:Nombre, apellidos, grupo, asignatura, carrera.
- -Asignatura: calificaciones, nombre de la asignatura
+    -Estudiantes:Nombre, apellidos, grupo, asignatura, carrera.
+    -Asignatura: calificaciones, nombre de la asignatura
 *Proceso:
- -Calcular el promedio de las calificaciones finales
- -Promedio = sumaDeCalificaciones/totalDeCalificaciones
+    -Calcular el promedio de las calificaciones finales
+    -Promedio = sumaDeCalificaciones/totalDeCalificaciones
 *Salida:
- -Resumen de los datos del estudiante con su promedio
+    -Resumen de los datos del estudiante con su promedio
  ~~~
  _______________________________________________
 | -Estudiante: ESMERALDA MÉNDEZ DOMÍNGUEZ       |
