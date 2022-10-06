@@ -27,3 +27,4 @@ Determinar y mostrar el promedio de las calificaciones finales en un resumen con
 ~~~
 ## Etapa 3. Diseño de la solución
 Diagrama de la clase
+![https://github.com/EsmeraldaMD/T3A1-Ejercicio-01/blob/main/T3A1.png]
