@@ -5,13 +5,13 @@ Desarrollar una solución que permita ingresar y almacenar las calificaciones fi
 Determinar y mostrar el promedio de las calificaciones finales en un resumen con los datos de los estudiantes.
 
 ## Estapa 2. Especificaciones
-*Entrada:
+1.Entrada:
     -Estudiantes:Nombre, apellidos, grupo, asignatura, carrera.
     -Asignatura: calificaciones, nombre de la asignatura
-*Proceso:
+2.Proceso:
     -Calcular el promedio de las calificaciones finales
     -Promedio = sumaDeCalificaciones/totalDeCalificaciones
-*Salida:
+3.Salida:
     -Resumen de los datos del estudiante con su promedio
  ~~~
  _______________________________________________
